@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eRhg7nRN5Tmbm+pUQnh7LWKua/GI2zArqW6Wr0ACD+l3vCQwi411ZjMj1Qu5pNHfmr8I/RB2tXI9qrAlJJcvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\RiderProjects\\LuiMVC\\LuiMVC\\LuiMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bootstrap.sass\\5.3.3\\bootstrap.sass.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
