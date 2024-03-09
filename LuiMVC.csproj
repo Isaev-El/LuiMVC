@@ -58,10 +58,26 @@
       <_ContentIncludedByDefault Remove="C:\Users\Admin\.nuget\packages\bootstrap\5.3.3\contentFiles\any\any\wwwroot\js\bootstrap.js.map" />
       <_ContentIncludedByDefault Remove="C:\Users\Admin\.nuget\packages\bootstrap\5.3.3\contentFiles\any\any\wwwroot\js\bootstrap.min.js" />
       <_ContentIncludedByDefault Remove="C:\Users\Admin\.nuget\packages\bootstrap\5.3.3\contentFiles\any\any\wwwroot\js\bootstrap.min.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.bundle.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.bundle.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.bundle.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.bundle.min.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.esm.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.esm.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.esm.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.esm.min.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\bootstrap.min.js.map" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="bootstrap.sass" Version="5.3.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\lib\bootstrap\" />
     </ItemGroup>
 
 </Project>

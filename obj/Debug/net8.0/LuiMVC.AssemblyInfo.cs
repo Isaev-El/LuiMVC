@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuiMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950b544a570fe8ddd4a9d90c4df1f6aaaaa75b5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuiMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuiMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

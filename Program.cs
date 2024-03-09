@@ -1,3 +1,7 @@
+using System.Net.Mime;
+using System.Text;
+using Microsoft.AspNetCore.Mvc.Formatters;
+
 namespace LuiMVC;
 
 public class Program
@@ -8,6 +12,8 @@ public class Program
         builder.Services.AddControllersWithViews();
         var app = builder.Build();
 
+        app.UseStaticFiles();
+        
         app.UseRouting();
         
         app.MapControllerRoute(
@@ -16,6 +22,5 @@ public class Program
             );
         
         app.Run();
-        
     }
 }
