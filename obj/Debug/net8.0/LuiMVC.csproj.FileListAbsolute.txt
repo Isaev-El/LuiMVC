@@ -55,3 +55,7 @@ C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\obj\Debug\net8.0\LuiMVC.pdb
 C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\obj\Debug\net8.0\LuiMVC.genruntimeconfig.cache
 C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\obj\Debug\net8.0\ref\LuiMVC.dll
 C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\obj\Debug\net8.0\LuiMVC.sourcelink.json
+C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\obj\Debug\net8.0\LuiMVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\RiderProjects\LuiMVC\LuiMVC\obj\Debug\net8.0\LuiMVC.csproj.CopyComplete

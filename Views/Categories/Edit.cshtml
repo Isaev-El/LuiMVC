@@ -1,10 +1,9 @@
-@using LuiMVC.Models
 @model Category
-@section title
+
+@if (Model is not null)
 {
     <h3>
-        Category: @Model.CategoryId
+        @Model.Name
+        @Model.Descriptions
     </h3>
 }
-
-

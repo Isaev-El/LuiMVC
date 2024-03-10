@@ -8,15 +8,17 @@ public class CategoriesController : Controller
     // GET
     public IActionResult Index()
     {
-        return View();
+        var categories = CategoryRepository.GetCategories();
+        if (categories is null)
+        {
+            return NotFound();
+        }
+        return View(categories);
     }
 
     public IActionResult Edit(int? id)
     {
-        var result = new Category
-        {
-            CategoryId = id.HasValue?id.Value:0,
-        };
+        var result = CategoryRepository.GetCategoryById(id.HasValue?id.Value:0);
         return View(result);
     }
 }
